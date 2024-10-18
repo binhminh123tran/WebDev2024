@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
-* Group ID: *Your Group ID here*
-* Project Name: *Your Project Name here*
+* Name: Hoang Duc Nghia
+* ID: 22BI13329
+* Group ID: 11
+* Project Name: To-Do List App
